@@ -1,0 +1,9 @@
+.idea
+.next
+node_modules/
+yarn.lock
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml

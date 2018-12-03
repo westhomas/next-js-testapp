@@ -1,0 +1,14 @@
+$bg-color: white;
+$bg-alt-color: #191c21;
+$highlight: #cc9933;
+
+
+$primary-color: $highlight;
+$link-color: $highlight;
+$font-color: #444;
+//@import "lib/skeleton-scss/skeleton.scss";
+
+body{
+  color: white;
+  background-color: red;
+}
